@@ -24,7 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/basicplayer3.0/basicplayer3.0/BasicPlayer3.0/lib/vorbisspi1.0.2.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -55,26 +55,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="736" y="261" key="FileChooserDialogImpl" timestamp="1600388805896">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1600822592979">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="736" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600388805896" />
-    <state width="1877" height="30" key="GridCell.Tab.0.bottom" timestamp="1600389401227">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600822592979" />
+    <state x="736" y="261" key="FileChooserDialogImpl" timestamp="1600546945177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="30" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600389401227" />
-    <state width="1877" height="30" key="GridCell.Tab.0.center" timestamp="1600389401227">
+    <state x="736" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600546945177" />
+    <state width="1877" height="113" key="GridCell.Tab.0.bottom" timestamp="1600824425797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="30" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600389401227" />
-    <state width="1877" height="30" key="GridCell.Tab.0.left" timestamp="1600389401227">
+    <state width="1877" height="113" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824425797" />
+    <state width="1877" height="113" key="GridCell.Tab.0.center" timestamp="1600824425797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="30" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600389401227" />
-    <state width="1877" height="30" key="GridCell.Tab.0.right" timestamp="1600389401227">
+    <state width="1877" height="113" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824425797" />
+    <state width="1877" height="113" key="GridCell.Tab.0.left" timestamp="1600824425797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="30" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600389401227" />
+    <state width="1877" height="113" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824425797" />
+    <state width="1877" height="113" key="GridCell.Tab.0.right" timestamp="1600824425797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="113" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824425797" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1600824247514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824247514" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1600824247514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824247514" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1600824247514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824247514" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1600824247514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824247514" />
     <state x="510" y="94" key="SettingsEditor" timestamp="1600388816331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -83,5 +103,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="641" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600388599274" />
+    <state x="342" y="140" key="new project wizard" timestamp="1600546948710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600546948710" />
   </component>
 </project>
