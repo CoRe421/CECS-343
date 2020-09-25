@@ -24,21 +24,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-8.0.21/mysql-connector-java-8.0.21/mysql-connector-java-8.0.21.jar" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestDBConnection">
     <configuration name="CECS343Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CECS343Lab3" />
+      <option name="MAIN_CLASS_NAME" value="Lab3.CECS343Lab3" />
       <module name="CECS343" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDBConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBtest.TestDBConnection" />
+      <module name="CECS343" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DBtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDBConnection" />
         <item itemvalue="Application.CECS343Lab3" />
       </list>
     </recent_temporary>
@@ -59,46 +73,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600822592979" />
-    <state x="736" y="261" key="FileChooserDialogImpl" timestamp="1600546945177">
+    <state x="736" y="261" key="FileChooserDialogImpl" timestamp="1600993751921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="736" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600546945177" />
-    <state width="1877" height="113" key="GridCell.Tab.0.bottom" timestamp="1600824425797">
+    <state x="736" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600993751921" />
+    <state width="1877" height="113" key="GridCell.Tab.0.bottom" timestamp="1600833184031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="113" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824425797" />
-    <state width="1877" height="113" key="GridCell.Tab.0.center" timestamp="1600824425797">
+    <state width="1877" height="113" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600833184031" />
+    <state width="1877" height="113" key="GridCell.Tab.0.center" timestamp="1600833184031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="113" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824425797" />
-    <state width="1877" height="113" key="GridCell.Tab.0.left" timestamp="1600824425797">
+    <state width="1877" height="113" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600833184031" />
+    <state width="1877" height="113" key="GridCell.Tab.0.left" timestamp="1600833184031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="113" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824425797" />
-    <state width="1877" height="113" key="GridCell.Tab.0.right" timestamp="1600824425797">
+    <state width="1877" height="113" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600833184031" />
+    <state width="1877" height="113" key="GridCell.Tab.0.right" timestamp="1600833184031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="113" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824425797" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1600824247514">
+    <state width="1877" height="113" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600833184031" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1600824593191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824247514" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1600824247514">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824593191" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1600824593191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824247514" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1600824247514">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824593191" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1600824593191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824247514" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1600824247514">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824593191" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1600824593191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824247514" />
-    <state x="510" y="94" key="SettingsEditor" timestamp="1600388816331">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600824593191" />
+    <state x="510" y="94" key="SettingsEditor" timestamp="1600993763260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="510" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600388816331" />
+    <state x="510" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600993763260" />
     <state x="641" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600388599274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,3 +1,5 @@
+package Lab3;
+
 import javazoom.jlgui.basicplayer.BasicPlayer;
 import javazoom.jlgui.basicplayer.BasicPlayerException;
 
